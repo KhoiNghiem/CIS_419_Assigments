@@ -28,3 +28,22 @@ script to plot the learning curves for various values of λ and d
 python3 test_logreg1.py 
 ```
 trains a logistic regression model using your implementation 
+
+### 3. Support Vector Machines
+Implement various kernels for the support vector machine (SVM)
+#### 3.1. Getting Started
+```bash
+python3 example_svm.py
+```
+Run `example svm.py` with **C = 0.01 and C = 1000**
+
+#### 3.2. Implementing Custom Kernels
+```bash
+python3 example svmCustomKernel.py
+```
+
+#### 3.3. Implementing the Polynomial Kernel
+Complete the `myPolynomialKernel()` function in `svmKernels.py`
+```bash
+python3 test_svmPolyKernel.py
+```
