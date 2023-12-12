@@ -47,3 +47,9 @@ Complete the `myPolynomialKernel()` function in `svmKernels.py`
 ```bash
 python3 test_svmPolyKernel.py
 ```
+
+#### 3.4. Implementing the Gaussian Radial Basis Function Kernel
+Complete the `myGaussianKernel()` function in `svmKernels.py`
+```bash
+python3 test svmGaussianKernel.py
+```
